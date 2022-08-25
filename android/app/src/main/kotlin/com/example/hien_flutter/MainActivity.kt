@@ -1,4 +1,4 @@
-package com.nvhbk.hien
+package com.example.hien_flutter
 
 import io.flutter.embedding.android.FlutterActivity
 
